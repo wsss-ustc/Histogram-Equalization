@@ -1,20 +1,20 @@
-直方图均衡化
+鐩存柟鍥惧潎琛″寲
 ===================================
 
-### 用法:
+### 鐢ㄦ硶:
     run main
         
-结果  
+缁撴灉  
 -----------------------------------  
 ### Global Histogram Equalization
-![github](http://github.com/unicorn.png "github")  
+![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/Global.jpg)  
 
 ### Local Histogram Equalization
-![github](http://github.com/unicorn.png "github")
+![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/Local.jpg)
 
 ### Dynamic Histogram Equalization
-![github](http://github.com/unicorn.png "github")
-![github](http://github.com/unicorn.png "github")
+![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/dynamic brain.jpg)
+![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/dynamic butterfly.jpg)
 
 Special case x=0
 
