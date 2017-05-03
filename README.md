@@ -13,8 +13,8 @@
 ![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/Local.jpg)
 
 ### Dynamic Histogram Equalization
-![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/dynamic brain.jpg)
-![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/dynamic butterfly.jpg)
+![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/dynamic_brain.jpg)
+![wsss](https://raw.githubusercontent.com/XeLiang/Histogram-Equalization/master/img/dynamic_butterfly.jpg)
 
 Special case x=0
 
